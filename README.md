@@ -1,2 +1,1 @@
-# New_Project_CMA
-Scenarios 2 added 
+Please look at the word file adn Email Engine flow for more information
